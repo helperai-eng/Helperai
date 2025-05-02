@@ -1,5 +1,9 @@
 function App() {
-  return <h1>Hello, Education AI!</h1>
+  return (
+    <div>
+      {/* Real homepage content goes here */}
+    </div>
+  );
 }
 
-export default App
+export default App;
